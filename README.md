@@ -8,4 +8,5 @@ it only uses the following basic JavaScript resources:
   - functions
   - logical not (~)
   - logical or (|)
+
 ```
