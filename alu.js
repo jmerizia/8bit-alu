@@ -1,5 +1,7 @@
-const gates = require('./gates');
+const gates = require('./components');
 
-console.log(gates.single_bit.full_adder(1, 0))
-
+console.log(gates.eight_bit.subtractor(
+  [0, 0, 0, 0, 0, 1, 0, 1],
+  [0, 0, 0, 0, 0, 1, 1, 1]
+))
 
