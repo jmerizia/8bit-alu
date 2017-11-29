@@ -149,6 +149,9 @@ module.exports = components = {
         A[7],
         0
       ];
+    },
+    binary_to_decimal: function (A) {
+
     }
   }
 };
